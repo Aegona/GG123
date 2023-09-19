@@ -1,1 +1,1 @@
-# GG123
+print("Hello GG")
